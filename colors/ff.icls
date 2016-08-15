@@ -1,0 +1,99 @@
+<scheme name="ff" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="8fcfff" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="ff983e" />
+      </value>
+    </option>
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d0" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="f9fe" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="ffd996" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="ff993a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="fac7ff" />
+      </value>
+    </option>
+    <option name="JSON.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="cd8c" />
+      </value>
+    </option>
+    <option name="JSON.BRACES">
+      <value>
+        <option name="FOREGROUND" value="f0fff4" />
+      </value>
+    </option>
+    <option name="JSON.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ecf9ff" />
+      </value>
+    </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="f9fe" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="1ccc94" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff9b37" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="cd8c" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="8ecbff" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="f9e5ff" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="c7ffa8" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ffc7b2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
