@@ -1,4 +1,4 @@
-<scheme name="Chester" version="142" parent_scheme="Default">
+<scheme name="Chester copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -824,7 +824,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="99a9b3" />
+        <option name="FOREGROUND" value="55ff7e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2825,6 +2825,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="55ff7e" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="ecd4a1" />
@@ -2832,12 +2837,18 @@
     </option>
     <option name="SASS_NUMBER">
       <value>
-        <option name="FOREGROUND" value="89cffd" />
+        <option name="FOREGROUND" value="ece336" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="fff2d8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="89cffd" />
+        <option name="FOREGROUND" value="78e9fd" />
       </value>
     </option>
     <option name="SASS_PSEUDO">
