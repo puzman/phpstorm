@@ -898,6 +898,9 @@
         <option name="FOREGROUND" value="53c6ff" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
     <option name="PHP_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="fffafa" />
