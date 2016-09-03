@@ -2312,7 +2312,7 @@
     </option>
     <option name="PHP_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="e0ff81" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
@@ -2340,7 +2340,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="f3dba2" />
       </value>
     </option>
     <option name="PHP_TAG">
