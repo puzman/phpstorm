@@ -2325,9 +2325,6 @@
         <option name="FOREGROUND" value="72fa70" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d3a36a" />
