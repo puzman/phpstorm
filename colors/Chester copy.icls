@@ -19,7 +19,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -2146,9 +2145,6 @@
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -2279,7 +2275,6 @@
     <option name="PHP_DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2298,6 +2293,12 @@
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -2324,6 +2325,9 @@
       <value>
         <option name="FOREGROUND" value="72fa70" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>

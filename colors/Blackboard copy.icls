@@ -49,7 +49,6 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -376,7 +375,6 @@
         <option name="FOREGROUND" value="ff6400" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d8fa3c" />
@@ -422,7 +420,7 @@
         <option name="FOREGROUND" value="ff6400" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -433,7 +431,6 @@
         <option name="FOREGROUND" value="ff6400" />
       </value>
     </option>
-    <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="TEXT" />
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fbde2d" />
@@ -469,7 +466,6 @@
         <option name="FOREGROUND" value="8da6ce" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -835,7 +831,6 @@
         <option name="FOREGROUND" value="fbde2d" />
       </value>
     </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -906,7 +901,6 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES" baseAttributes="TEXT" />
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">

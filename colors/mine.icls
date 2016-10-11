@@ -226,22 +226,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -1001,9 +989,6 @@
         <option name="FOREGROUND" value="e1efff" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_DEFINITION">
-      <value />
-    </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="ffb054" />
@@ -1144,9 +1129,6 @@
         <option name="FOREGROUND" value="9effff" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value />
-    </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
         <option name="FOREGROUND" value="9effff" />
@@ -1255,9 +1237,6 @@
       <value>
         <option name="FOREGROUND" value="9effff" />
       </value>
-    </option>
-    <option name="RUBY_NTH_REF">
-      <value />
     </option>
     <option name="RUBY_NUMBER">
       <value>

@@ -86,12 +86,6 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.BRACE">
-      <value />
-    </option>
-    <option name="COFFEESCRIPT.BRACKET">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -105,9 +99,6 @@
     <option name="COFFEESCRIPT.COMMA">
       <value />
     </option>
-    <option name="COFFEESCRIPT.DOT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
@@ -117,9 +108,6 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
-      <value />
     </option>
     <option name="COFFEESCRIPT.FUNCTION">
       <value>
@@ -200,9 +188,6 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.PARENTHESIS">
-      <value />
     </option>
     <option name="COFFEESCRIPT.PROTOTYPE">
       <value>
@@ -447,9 +432,6 @@
       <value>
         <option name="FOREGROUND" value="e0c589" />
       </value>
-    </option>
-    <option name="DJANGO_TAG_START_END">
-      <value />
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
@@ -761,12 +743,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.BRACES">
-      <value />
-    </option>
-    <option name="JS.BRACKETS">
-      <value />
-    </option>
     <option name="JS.COMMA">
       <value />
     </option>
@@ -785,9 +761,6 @@
       <value>
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JS.DOT">
-      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
@@ -846,9 +819,6 @@
       <value>
         <option name="FOREGROUND" value="1db0ff" />
       </value>
-    </option>
-    <option name="JS.PARENTHS">
-      <value />
     </option>
     <option name="JS.REGEXP">
       <value>
@@ -1035,12 +1005,6 @@
         <option name="FOREGROUND" value="afc4db" />
       </value>
     </option>
-    <option name="PY.BRACES">
-      <value />
-    </option>
-    <option name="PY.BRACKETS">
-      <value />
-    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="dad085" />
@@ -1050,9 +1014,6 @@
       <value>
         <option name="FOREGROUND" value="e0c589" />
       </value>
-    </option>
-    <option name="PY.COMMA">
-      <value />
     </option>
     <option name="PY.DECORATOR">
       <value>
@@ -1064,9 +1025,6 @@
         <option name="FOREGROUND" value="5f5a60" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="PY.DOT">
-      <value />
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
@@ -1099,12 +1057,6 @@
       <value>
         <option name="FOREGROUND" value="afc4db" />
       </value>
-    </option>
-    <option name="PY.PARENTHS">
-      <value />
-    </option>
-    <option name="PY.PREDEFINED_DEFINITION">
-      <value />
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
@@ -1226,9 +1178,6 @@
         <option name="FOREGROUND" value="494949" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
-      <value />
-    </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
         <option name="FOREGROUND" value="494949" />
@@ -1246,12 +1195,6 @@
         <option name="EFFECT_COLOR" value="d2a8a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="RUBY_BRACKETS">
-      <value />
-    </option>
-    <option name="RUBY_COMMA">
-      <value />
     </option>
     <option name="RUBY_COMMENT">
       <value>
@@ -1335,9 +1278,6 @@
         <option name="FOREGROUND" value="e0c589" />
       </value>
     </option>
-    <option name="RUBY_NTH_REF">
-      <value />
-    </option>
     <option name="RUBY_NUMBER">
       <value>
         <option name="FOREGROUND" value="ca7840" />
@@ -1362,9 +1302,6 @@
       <value>
         <option name="FOREGROUND" value="e9c062" />
       </value>
-    </option>
-    <option name="RUBY_SEMICOLON">
-      <value />
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
