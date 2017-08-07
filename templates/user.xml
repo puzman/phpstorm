@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="%" value="%=static=%" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JADE" value="true" />
+    </context>
+  </template>
+</templateSet>
